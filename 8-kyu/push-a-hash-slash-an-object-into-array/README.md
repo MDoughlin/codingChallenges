@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/527b3cd0492b6b15250060af/train/javascript target="_blank">Push a hash/an object into array</a></h2><h3>8 kyu</h3><p>You are trying to put an <strong>Object</strong> into an <strong>Array</strong>, but for some reason, it keeps throwing an error.</p><p>Fix it and try to keep it as simple as possible!</p>
